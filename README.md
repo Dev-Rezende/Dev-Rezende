@@ -1,6 +1,3 @@
- <div align="center"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></div>
-
-
 <!--Infos-->
 ### Hello World! I'm Rezende	:shield:
 
@@ -17,10 +14,10 @@
   <a href="https://github.com/Dev-Rezende">
   <img height="180em" bg_color="#000000" src="https://github-readme-stats.vercel.app/api?username=dev-rezende&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  
+<!--ÍCONES DAS LINGUAGENS-->
 </div>
   <br>
   <h1 align="center">PROGRAMMING LANGUAGES</h1>
-  <!--ÍCONES HTML, CSS E JS-->
   <div align="center">
     <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -28,10 +25,17 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   </div>
 </div>
+
+<hr>
  
+<!--Snake Gif-->
+<div align="center">
+  <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+<br>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+<!--Images-->
 <div align="center">
   <img alt="Coding" height="250px" src="https://i.ytimg.com/vi/f02mOEt11OQ/maxresdefault.jpg">
   <img height="250px" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
