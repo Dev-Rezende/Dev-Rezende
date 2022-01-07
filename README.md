@@ -1,3 +1,6 @@
+ <div align="center"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></div>
+
+
 <!--Infos-->
 ### Hello World! I'm Rezende	:shield:
 
