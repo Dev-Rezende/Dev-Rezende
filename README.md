@@ -15,3 +15,6 @@
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/><img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+
+![Alt Text](https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif)
