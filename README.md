@@ -5,6 +5,7 @@
 - :man_technologist: Studying python :point_down:
 - :black_heart: Data Science and Machine Learning :black_heart:
 - :man_scientist: Chemistry technician
+- ☕ Is live ❤️
 
 <br>
 
