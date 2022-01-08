@@ -1,13 +1,11 @@
 <!--Infos-->
-### Hello World! I'm Rezende	:shield:
+<h1>Hello World! I'm Rezende	:shield:</h1>
 
 - :man_student: Studying programming web front-end
 - :man_technologist: Studying python :point_down:
 - :black_heart: Data Science and Machine Learning :black_heart:
 - :man_scientist: Chemistry technician
 - ☕ Is live ❤️
-
-<br>
 
 <!--GitHuv Stats-->
 <h1 align="center">GITHUB STATS</h1>
@@ -16,7 +14,6 @@
   <img height="180em" bg_color="#000000" src="https://github-readme-stats.vercel.app/api?username=dev-rezende&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  
 <!--ÍCONES DAS LINGUAGENS-->
-</div>
   <br>
   <h1 align="center">PROGRAMMING LANGUAGES</h1>
   <div align="center">
@@ -24,6 +21,16 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  </div>
+
+<!--ÍCONES DAS FRAMEWORKS-->
+</div>
+  <br>
+  <h1 align="center">FRAMEWORKS AND TECHNOLOGIES</h1>
+  <div align="center">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+    <img align="center" src="https://img.icons8.com/offices/48/000000/react.png"/>
+    <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   </div>
 </div>
 
