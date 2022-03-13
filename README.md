@@ -28,8 +28,6 @@
   <br>
   <h1 align="center">FRAMEWORKS AND TECHNOLOGIES</h1>
   <div align="center">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-    <img align="center" src="https://img.icons8.com/offices/48/000000/react.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   </div>
 </div>
