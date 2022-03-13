@@ -6,6 +6,7 @@
 - :black_heart: Data Science and Machine Learning :black_heart:
 - :man_scientist: Chemistry technician
 - ☕ Is live ❤️
+- 🏢 AGSI Sistemas
 
 <!--GitHuv Stats-->
 <h1 align="center">GITHUB STATS</h1>
