@@ -15,22 +15,14 @@
  
 <!--ÍCONES DAS LINGUAGENS-->
   <br>
-  <h1 align="center">PROGRAMMING LANGUAGES</h1>
+  <h1 align="center">TECHNOLOGIES</h1>
   <div align="center">
     <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  </div>
-
-<!--ÍCONES DAS FRAMEWORKS-->
-</div>
-  <br>
-  <h1 align="center">FRAMEWORKS AND TECHNOLOGIES</h1>
-  <div align="center">
     <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   </div>
-</div>
 
 <hr>
  
