@@ -23,6 +23,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img align="center" src="https://img.icons8.com/color/344/ubuntu--v1.png" height='46'/>
   </div>
 
 <hr>
